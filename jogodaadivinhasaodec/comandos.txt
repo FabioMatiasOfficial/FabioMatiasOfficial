@@ -1,0 +1,7 @@
+*** debg ***
+gcc <nomedoprograma.c> -o <nomedoprograma.out>
+gcc jogo Adivinha.c -o jogo.out
+
+*** executar o arquivo .out***
+./nomedoarquivo.out>
+./jogoAdivinha.ou
